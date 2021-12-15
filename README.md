@@ -1,4 +1,4 @@
-# calculus-projects
+# calculus-for-machine-learning-projects
 This repository contains some projects using calculus.
 
 #### Backpropagation
